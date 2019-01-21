@@ -1,0 +1,49 @@
+html, body, div, span, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,abbr, address, cite, code,del, dfn, em, img, ins, kbd, q, samp,small, strong, sub, sup, var,b, i,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, figcaption, figure,footer, header, hgroup, menu, nav, section, summary,time, mark, audio, video, textarea  {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	/*font-size:12px;*/
+	vertical-align:baseline;
+	background:transparent;
+}
+*{
+	box-sizing: border-box;
+}
+.bg{
+	width: 100vw;
+}
+/*body{
+	font-family: Rancho;
+	background-image: linear-gradient(to right, rgba(0,0,0,0.3) 50%, rgba(255,255,255,0.3) 50%);
+	background-size: cover;
+}
+.status{
+	font-size: 65px;
+	display: inline-block;
+	font-weight: bold;
+	background: -moz-linear-gradient(left, rgba(255,255,255) 0%, rgba(255,255,255) 50%, rgba(0,0,0) 50%, rgba(0,0,0) 99%, rgba(0,0,0) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255)), color-stop(50%, rgba(255,255,255)), color-stop(50%, rgba(0,0,0)), color-stop(99%, rgba(0,0,0)), color-stop(100%, rgba(0,0,0)));
+	background: -webkit-linear-gradient(left, rgba(255,255,255) 0%, rgba(255,255,255) 50%, rgba(0,0,0) 50%, rgba(0,0,0) 99%, rgba(0,0,0) 100%);
+	background: -o-linear-gradient(left, rgba(255,255,255) 0%, rgba(255,255,255) 50%, rgba(0,0,0) 50%, rgba(0,0,0) 99%, rgba(0,0,0) 100%);
+	background: -ms-linear-gradient(left, rgba(255,255,255) 0%, rgba(255,255,255) 50%, rgba(0,0,0) 50%, rgba(0,0,0) 99%, rgba(0,0,0) 100%);
+	background: linear-gradient(to right, rgba(255,255,255) 0%, rgba(255,255,255) 50%, rgba(0,0,0) 50%, rgba(0,0,0) 99%, rgba(0,0,0) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000', GradientType=1 );
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.status-div{
+	padding-top: 15%;
+}
+.name{
+	display: inline-block;
+	background: -moz-linear-gradient(left, rgba(255,255,255) 0%, rgba(255,255,255) 50%, rgba(0,0,0) 50%, rgba(0,0,0) 99%, rgba(0,0,0) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255)), color-stop(50%, rgba(255,255,255)), color-stop(50%, rgba(0,0,0)), color-stop(99%, rgba(0,0,0)), color-stop(100%, rgba(0,0,0)));
+	background: -webkit-linear-gradient(left, rgba(255,255,255) 0%, rgba(255,255,255) 50%, rgba(0,0,0) 50%, rgba(0,0,0) 99%, rgba(0,0,0) 100%);
+	background: -o-linear-gradient(left, rgba(255,255,255) 0%, rgba(255,255,255) 50%, rgba(0,0,0) 50%, rgba(0,0,0) 99%, rgba(0,0,0) 100%);
+	background: -ms-linear-gradient(left, rgba(255,255,255) 0%, rgba(255,255,255) 50%, rgba(0,0,0) 50%, rgba(0,0,0) 99%, rgba(0,0,0) 100%);
+	background: linear-gradient(to right, rgba(255,255,255) 0%,  50%, rgba(0,0,0) 50%, rgba(0,0,0) 99%, rgba(0,0,0) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000', GradientType=1 );
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}*/
