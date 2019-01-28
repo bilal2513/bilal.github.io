@@ -14,4 +14,4 @@ else if(command === "mul"){
 else if(command === "div"){
 	console.log(a/b);
 }
-console.log(module);
+//console.log(module);
