@@ -1,2 +1,2 @@
 var _ =require("lodash");
-console.log(_.snakeCase("valueIsDiffFromOthers"));
+console.log(_.snakeCase("valueIsDiffFromOther"));
